@@ -1,0 +1,74 @@
+.boxShadow_A {
+    --boxShadow-left: 5;
+    --boxShadow-right: 10;
+    --boxShadow-bottom: 10;
+    --boxShadow-top: 5;
+    --boxShadow-color: rgb(32, 32, 32);
+    --boxShadow-inset: false;
+}
+
+.boxShadow_B {
+    --boxShadow-left: 10;
+    --boxShadow-right: 10;
+    --boxShadow-bottom: 10;
+    --boxShadow-top: 10;
+    --boxShadow-color: rgba(255, 196, 128, 0.8);
+    --boxShadow-inset: false;
+}
+
+.boxShadow_C {
+    --boxShadow-left: 10;
+    --boxShadow-right: 10;
+    --boxShadow-bottom: 20;
+    --boxShadow-top: 5;
+    --boxShadow-color: rgb(128, 128, 128);
+    --boxShadow-inset: true;
+}
+
+.dashed_A {
+    --dashed-left: 2;
+    --dashed-right: 2;
+    --dashed-bottom: 2;
+    --dashed-top: 2;
+    --dashed-color: rgb(32, 32, 32);
+    --dashed-solid-count: 10;
+    --dashed-clear-count: 6;
+}
+
+.dashed_B {
+    --dashed-left: 3;
+    --dashed-right: 3;
+    --dashed-bottom: 3;
+    --dashed-top: 3;
+    --dashed-color: rgb(255, 0, 0);
+    --dashed-solid-count: 8;
+    --dashed-clear-count: 6;
+}
+
+.dashed_C {
+    --dashed-left: 2;
+    --dashed-right: 2;
+    --dashed-bottom: 2;
+    --dashed-top: 2;
+    --dashed-color: rgb(255, 255, 255);
+    --dashed-solid-count: 2;
+    --dashed-clear-count: 2;
+}
+
+.gradient_A {
+    --linearGradient-top-color: rgba(255, 255, 255, 0);
+    --linearGradient-bottom-color: rgb(255, 255, 255);
+    --linearGradient-rotation: 0;
+}
+
+.gradient_B {
+    --linearGradient-top-color: rgb(255, 0, 0);
+    --linearGradient-bottom-color: rgb(0, 0, 255);
+    --linearGradient-rotation: 45;
+}
+
+.gradient_C {
+    --linearGradient-top-color: rgb(0, 128, 255);
+    --linearGradient-bottom-color: rgb(128, 196, 255);
+    --linearGradient-rotation: 90;
+}
