@@ -1,4 +1,4 @@
-![Additional elements](https://github.com/fkate/UIBuilder-VisualElements-Additions/blob/master/extraStyles.png)
+![Additional elements](https://github.com/fkate/UIBuilder_Additonal_VisualElements/blob/master/extraStyles.png)
 
 <h3>Summary</h3>
 A few custom visual elements for Unitys UIBuilder focused on css elements that are not (yet) officially supported. <br>
